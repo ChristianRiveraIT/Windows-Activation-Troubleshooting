@@ -5,6 +5,14 @@ Overview:
 This project documents how I helped my cousin troubleshoot and understand a Windows activation issue inside a virtual machine he installed on his Mac. He wanted to personalize Windows (change wallpaper, colors, themes), but the system wouldn’t allow it and displayed an “Activate Windows” watermark.
 I investigated the issue, identified the root cause, and explained the correct resolution path.
 This scenario demonstrates my ability to support non‑technical users, diagnose system issues, and communicate solutions clearly.
+🛠️ Technologies Used
+- **Windows 11** (Activation, Licensing, Troubleshooting)
+- **macOS** (Host OS)
+- **Virtualization** (VM environment)
+- **Command Line Tools** (`slmgr`)
+- **System Administration Concepts**
+- **Troubleshooting & Root Cause Analysis**
+- **Documentation & Communication**
 
 Background:
 
