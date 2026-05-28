@@ -29,7 +29,6 @@ He contacted me because:
 
 Activation Watermark
 Windows displayed a persistent Activate Windows watermark in the bottom‑right corner.
-
 Personalization Locked
 Windows would not allow changes to:
 - Wallpaper
