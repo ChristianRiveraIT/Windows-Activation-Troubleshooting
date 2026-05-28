@@ -1,3 +1,7 @@
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Windows](https://img.shields.io/badge/Windows-Activation-blue)
+![IT Support](https://img.shields.io/badge/IT-Support-orange)
+![Documentation](https://img.shields.io/badge/Documentation-Professional-lightgrey)
 # Windows-Activation-Troubleshooting
 Real‑World Technical Support Scenario — Helping a Family Member Fix Their VM
 
